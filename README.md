@@ -17,5 +17,5 @@ To run the server, run the following command:
 * Crazy UI
 
 # Members
-* Sehran Kahn 
+* Sehran Khan 
 * Vimal Shetty (https://github.com/iamvimals)
