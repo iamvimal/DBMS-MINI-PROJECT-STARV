@@ -4,6 +4,8 @@ DBMS project for online Food Ordering system.
 
 The frontend specifically can be found in `front-end/` folder.
 
+Download starvfoodsgit.tar.gz and extract it.
+
 To run the server, run the following command:
 
     python2 manage.py runserver
