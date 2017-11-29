@@ -1,23 +1,38 @@
 # DBMS-MINI-PROJECT-STARV
 
-DBMS project for online Food Ordering system.
+Welcome to STARV!!!
 
-The frontend specifically can be found in `front-end/` folder.
+DBMS Laboratory Mini Project
+5th Semester
+2017-2018
 
-Download starvfoodsgit.tar.gz and extract it.
+***This CD contains***
+1) Project Files\starvfoods
+2) Project Report\STARV Final Report.docx
+3) ReadMe.txt file explaining all instructions.
 
-To run the server, run the following command:
+***Prerequisites***
+The PC must have the following specs and softwares already installed.
+1) Ubuntu Operating System v14.04+
+2) 1GB+ RAM
+3) 5GB+ Disk Space
+4) Python Software v2.7+
+5) Django Web Framework v1.8.7+
+6) Sublime Text Editor v3.0
+7) Google Chrome Web Browser
 
-    python2 manage.py runserver
+***Instrustions***
+1) Copy the entire starvfoods folder from the CD onto the desktop.
+2) On opening the starvfoods folder on the Desktop, right click in the window and select option "Open in Terminal".
+3) To add all models (tables) to the database, type the command: "python2 manage.py make migrations". To apply all changes
+	in the models, type the command: "python2 manage.py migrate".
+4) To start the virtual server, type the command: "python2 manage.py runserver". In case it doesn't work, find
+	alternative command for "manage.py runserver" based on the settings you have made during Python and Django installation.
+5) Open the Google Chrome Web Browser, and type "localhost:8000" in the address bar, and the STARV page should open.
+6) Refer STARV Final Report documentation for reference.
+7) All programming files of the project (in the starvfoods folder) can be viewed using Sublime Text Editor.
 
-# Features
-* Supports Restaurant and Customer login and signup.
-* User can enter and edit details.
-* User can place orders from multiple restaurants.
-* A restaurant can update their menu, add new items to their menu and manage pending or delivery status.
-* Both user and restaurant can check their history logs.
-* Crazy UI
-
-# Members
-* Sehran Khan 
-* Vimal Shetty (https://github.com/iamvimals)
+***Project Done By***
+SEHRAN KHAN : USN 1CR15CS138
+VIMAL SHETTY : USN 1CR15CS177
+CMR Institute of Technology, Bangalore.
