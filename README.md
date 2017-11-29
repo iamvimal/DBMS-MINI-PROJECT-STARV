@@ -3,7 +3,7 @@
 Welcome to STARV!!!
 DBMS Project for online Food Ordering system.
 
-***Features***
+##Features
 * Supports Restaurant and Customer login and signup.
 * User can enter and edit details.
 * User can place orders from multiple restaurants.
@@ -11,7 +11,7 @@ DBMS Project for online Food Ordering system.
 * Both user and restaurant can check their history logs.
 * Crazy UI
 
-***Prerequisites***
+##Prerequisites
 The PC must have the following specs and softwares already installed.
 1) Ubuntu Operating System v14.04+
 2) 1GB+ RAM
@@ -21,7 +21,7 @@ The PC must have the following specs and softwares already installed.
 6) Sublime Text Editor v3.0
 7) Google Chrome Web Browser
 
-***Instrustions***
+##Instrustions
 1) Copy the entire starvfoodsgit.tar.gz onto the desktop and extract it.
 2) On opening the starvfoods folder, right click in the window and select option "Open in Terminal".
 3) To add all models (tables) to the database, type the command: "python2 manage.py make migrations". To apply all changes
@@ -32,7 +32,7 @@ The PC must have the following specs and softwares already installed.
 6) Refer STARV Final Report documentation for reference.
 7) All programming files of the project (in the starvfoods folder) can be viewed using Sublime Text Editor.
 
-***Project Done By***
+##Project Done By
 SEHRAN KHAN : USN 1CR15CS138
 VIMAL SHETTY : USN 1CR15CS177 (https://github.com/iamvimals)
 5th SEM
