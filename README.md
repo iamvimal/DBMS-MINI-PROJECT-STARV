@@ -1,15 +1,15 @@
 # DBMS-MINI-PROJECT-STARV
 
 Welcome to STARV!!!
+DBMS Project for online Food Ordering system.
 
-DBMS Laboratory Mini Project
-5th Semester
-2017-2018
-
-***This CD contains***
-1) Project Files\starvfoods
-2) Project Report\STARV Final Report.docx
-3) ReadMe.txt file explaining all instructions.
+***Features***
+* Supports Restaurant and Customer login and signup.
+* User can enter and edit details.
+* User can place orders from multiple restaurants.
+* A restaurant can update their menu and add new items to their menu.
+* Both user and restaurant can check their history logs.
+* Crazy UI
 
 ***Prerequisites***
 The PC must have the following specs and softwares already installed.
@@ -22,8 +22,8 @@ The PC must have the following specs and softwares already installed.
 7) Google Chrome Web Browser
 
 ***Instrustions***
-1) Copy the entire starvfoods folder from the CD onto the desktop.
-2) On opening the starvfoods folder on the Desktop, right click in the window and select option "Open in Terminal".
+1) Copy the entire starvfoodsgit.tar.gz onto the desktop and extract it.
+2) On opening the starvfoods folder, right click in the window and select option "Open in Terminal".
 3) To add all models (tables) to the database, type the command: "python2 manage.py make migrations". To apply all changes
 	in the models, type the command: "python2 manage.py migrate".
 4) To start the virtual server, type the command: "python2 manage.py runserver". In case it doesn't work, find
@@ -34,5 +34,7 @@ The PC must have the following specs and softwares already installed.
 
 ***Project Done By***
 SEHRAN KHAN : USN 1CR15CS138
-VIMAL SHETTY : USN 1CR15CS177
+VIMAL SHETTY : USN 1CR15CS177 (https://github.com/iamvimals)
+5th SEM
+2017-2018
 CMR Institute of Technology, Bangalore.
